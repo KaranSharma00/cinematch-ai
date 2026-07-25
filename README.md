@@ -2,10 +2,6 @@
 
 <img src="screenshots/banner.png" alt="CineMatch AI Banner" width="100%"/>
 
-# 🎬 CineMatch AI
-
-### *Discover Your Next Favorite Film with AI-Powered Recommendations*
-
 <p align="center">
   <a href="#-features">Features</a> •
   <a href="#-demo">Demo</a> •
@@ -35,9 +31,6 @@
 [![GitHub Issues](https://img.shields.io/github/issues/YOUR_USERNAME/cinematch-ai?style=social&logo=github)](https://github.com/YOUR_USERNAME/cinematch-ai/issues)
 
 <br/>
-
-<img src="screenshots/app_preview.png" alt="CineMatch AI Preview" width="90%"/>
-
 </div>
 
 ---
@@ -121,14 +114,14 @@
 <br/>
 
 <div align="center">
-  <img src="screenshots/sidebar.png" alt="Sidebar" width="100%"/>
+  <img src="screenshots/sidebar.png" alt="Sidebar" width="90%"/>
   <p align="center"><i>🎯 AI-powered recommendations with real movie posters</i></p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="screenshots/mobile.png" alt="Mobile View" width="100%"/>
+  <img src="screenshots/mobile.png" alt="Mobile View" width="90%"/>
   <p align="center"><i>📊 Detailed statistics</i></p>
 </div>
 
@@ -211,3 +204,58 @@ pip install -r requirements.txt
 
 # 3️⃣ Launch the app
 streamlit run app.py
+
+
+---
+
+<div align="center">
+
+## 🤝 Contributing
+
+</div>
+
+Contributions make the open-source community amazing! Any contributions you make are **greatly appreciated**.
+
+1. 🍴 **Fork** the Project
+2. 🌿 Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push to the Branch (`git push origin feature/AmazingFeature`)
+5. 🎉 Open a Pull Request
+
+---
+
+<div align="center">
+
+## 📄 License
+
+</div>
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
+
+---
+
+<div align="center">
+
+### ⭐ Show Your Support
+
+If you found this project helpful or interesting, please give it a ⭐️!
+
+**It motivates me to build more awesome projects!**
+
+<br/>
+
+![Made With Love](https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge)
+![Powered By Coffee](https://img.shields.io/badge/Powered%20By-☕-brown?style=for-the-badge)
+![Built With Passion](https://img.shields.io/badge/Built%20With-Passion-orange?style=for-the-badge)
+
+<br/>
+
+**🎬 Happy Movie Watching! 🍿**
+
+<br/>
+
+---
+
+<sub>© 2026 CineMatch AI. All rights reserved.</sub>
+
+</div>
