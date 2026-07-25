@@ -182,34 +182,6 @@
 
 <div align="center">
 
-## 🚀 Installation
-
-</div>
-
-### **Prerequisites**
-Make sure you have installed:
-- ✅ Python 3.10 or higher
-- ✅ pip package manager
-- ✅ Git
-
-### **Quick Start (3 Steps)**
-
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/KaranSharma00/cinematch-ai.git
-cd cinematch-ai
-
-# 2️⃣ Install dependencies
-pip install -r requirements.txt
-
-# 3️⃣ Launch the app
-streamlit run app.py
-
-
----
-
-<div align="center">
-
 ## 🤝 Contributing
 
 </div>
@@ -259,3 +231,32 @@ If you found this project helpful or interesting, please give it a ⭐️!
 <sub>© 2026 CineMatch AI. All rights reserved.</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🚀 Installation
+
+</div>
+
+### **Prerequisites**
+Make sure you have installed:
+- ✅ Python 3.10 or higher
+- ✅ pip package manager
+- ✅ Git
+
+### **Quick Start (3 Steps)**
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/KaranSharma00/cinematch-ai.git
+cd cinematch-ai
+
+# 2️⃣ Install dependencies
+pip install -r requirements.txt
+
+# 3️⃣ Launch the app
+streamlit run app.py
+
+
