@@ -238,8 +238,4 @@ If you found this project helpful or interesting, please give it a ⭐️!
 
 <br/>
 
----
-
-<sub>© 2026 CineMatch AI. All rights reserved.</sub>
-
 </div>
