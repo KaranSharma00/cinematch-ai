@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="#-features">Features</a> •
-  <a href="#-demo">Demo</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-installation">Install</a> •
   <a href="#-how-it-works">How It Works</a> •
